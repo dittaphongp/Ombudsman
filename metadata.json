@@ -1,0 +1,5 @@
+{
+  "name": "Ombudsman AI Watch",
+  "description": "A centralized dashboard for the Office of the Ombudsman to monitor state duties under Section 5 of the Constitution B.E. 2560. Utilizing AI and NLP to analyze social media sentiment, track complaints without formal requests, and visualize workflow transformation.",
+  "requestFramePermissions": []
+}
